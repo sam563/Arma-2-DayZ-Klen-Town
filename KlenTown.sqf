@@ -959,10 +959,6 @@ if (isServer) then {
   _this setDir -141.08551;
   _this setPos [11438.332, 11303.327, -0.00021362305];
 
-  _this = createVehicle ["MAP_woodenRamp", [11428.798, 11202.695, 0.26153034], [], 0, "CAN_COLLIDE"];
-  _this setDir -126.66049;
-  _this setPos [11428.798, 11202.695, 0.26153034];
-
   _this = createVehicle ["MAP_sign_children_new", [11480.417, 11287.564], [], 0, "CAN_COLLIDE"];
   _this setDir -83.037086;
   _this setPos [11480.417, 11287.564];
